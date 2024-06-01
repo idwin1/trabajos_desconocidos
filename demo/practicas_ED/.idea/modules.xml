@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../TAP/TAP/TAP.iml" filepath="$PROJECT_DIR$/../TAP/TAP/TAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicas_ED.iml" filepath="$PROJECT_DIR$/practicas_ED.iml" />
+    </modules>
+  </component>
+</project>
